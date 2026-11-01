@@ -60,6 +60,7 @@ async function run() {
     console.log(`menerapkan ${file}...`);
     let sql = fs.readFileSync(path.join(migrationsDir, file), 'utf8');
     sql = sql.replaceAll('__PORTAL_APP_PASSWORD__', env.pgApp.password.replace(/'/g, "''"));
+    sql = sql.replaceAll('__DATABASE_NAME__', quoteIdent(env.pgAdmin.database));
     await db.query(sql);
     await db.query('INSERT INTO _migrations (filename) VALUES ($1)', [file]);
     console.log(`  ok: ${file}`);

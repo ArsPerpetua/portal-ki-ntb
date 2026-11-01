@@ -9,7 +9,7 @@ BEGIN
   END IF;
 END $$;
 
-GRANT CONNECT ON DATABASE portal_ki_ntb TO portal_app;
+GRANT CONNECT ON DATABASE __DATABASE_NAME__ TO portal_app;
 GRANT USAGE ON SCHEMA public TO portal_app;
 
 -- 2) Helper: identitas pemanggil saat ini, diset oleh backend via SET LOCAL per request

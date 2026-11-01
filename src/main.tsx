@@ -328,7 +328,7 @@ function Shell() {
           </div>
         </div>}
       </header>
-      <div className="demo-ribbon"><span className="demo-indicator" /> LOKAL — tersambung ke PostgreSQL di komputer Anda. Google Drive & Netlify belum diaktifkan; berkas tersimpan di server lokal.</div>
+      {import.meta.env.DEV && <div className="demo-ribbon"><span className="demo-indicator" /> LOKAL — tersambung ke PostgreSQL di komputer Anda. Google Drive & Netlify belum diaktifkan; berkas tersimpan di server lokal.</div>}
       <main className="content" key={`${page}-${selected || 'none'}`}>
         {page === 'dashboard' && <>
           <div className="page-title-row"><div><h1>Selamat datang kembali, {user.fullName.split(' ')[0]} <span className="hello-wave">✳</span></h1>
