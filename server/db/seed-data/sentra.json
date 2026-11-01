@@ -1,0 +1,1458 @@
+[
+  {
+    "name": "Universitas Mataram",
+    "district": "Kota Mataram",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Universitas Mataram — Status pembentukan Sentra KI: Ya; klasterisasi Mandiri; PKS dengan Kanwil: Ya (Nomor: W.21-32.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jln. Majapahit No. 62 Mataram, NTB 83125",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor: W.21-32.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Mandiri",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Universitas Muhammadiyah Mataram",
+    "district": "Kota Mataram",
+    "year": 2025,
+    "status": "PENDING_REVIEW",
+    "description": "Universitas Muhammadiyah Mataram — Status pembentukan Sentra KI: Proses; klasterisasi Utama; PKS dengan Kanwil: Ya (Nomor : W.21-36.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. KH. Ahmad Dahlan No.1, Pagesangan, Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor : W.21-36.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Proses",
+      "klasterisasi": "Utama",
+      "tindak_lanjut": "Telah diinfokan untuk pembentukan sentra KI\njawaban: akan segera di proses dan menunggu pimpinan yang masih keluar daerah\nPIC: Risma"
+    }
+  },
+  {
+    "name": "Universitas Bumigora",
+    "district": "Kota Mataram",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Universitas Bumigora — Status pembentukan Sentra KI: Ya; klasterisasi Madya; PKS dengan Kanwil: Ya (Nomor : W.21-38.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Ismail Marzuki No. 22 Cilinaya, Kec. Cakranegara, Kota Mataram, NTB",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor : W.21-38.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Madya",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Universitas Nahdlatul Wathan Mataram",
+    "district": "Kota Mataram",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Universitas Nahdlatul Wathan Mataram — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Ya (Nomor : W.21-40.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Kaktus No.1-3, Gomong, Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor : W.21-40.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Institut Agama Hindu Negeri Gde Pudja",
+    "district": "Kota Mataram",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Institut Agama Hindu Negeri Gde Pudja — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya (W.21-34.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pramuka, Mataram Bar., Kec. Selaparang, Kota Mataram",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "W.21-34.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 11 Februari 2026"
+    }
+  },
+  {
+    "name": "Universitas 45 Mataram",
+    "district": "Kota Mataram",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Universitas 45 Mataram — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Ya (Nomor : W.21-37.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Imam Bonjol No.45, Cakranegara Utara, Kec. Cakranegara, Kota Mataram, Nusa Tenggara Bar. 83239, Indonesia",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor : W.21-37.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 30 April 2026\nPIC: Meizar"
+    }
+  },
+  {
+    "name": "Universitas Islam Al-azhar",
+    "district": "Kota Mataram",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Universitas Islam Al-azhar — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Ya (Nomor : W.21-31.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Unizar No.20, Turida, Kec. Sandubaya, Kota Mataram, ",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor : W.21-31.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 13 April 2026\n\nSentra KI sedang ditinjau oleh bidang 4\nPIC: Imel"
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Pariwisata Mataram",
+    "district": "Kota Mataram",
+    "year": 2025,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Pariwisata Mataram — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya (Nomor : W.21-42.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Panji Tilar Negara No.99, Kekalik Jaya, Kec. Sekarbela, Kota Mataram",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor : W.21-42.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Universitas Islam Negeri Mataram",
+    "district": "Kota Mataram",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Universitas Islam Negeri Mataram — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya (Nomor : W.21-35.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan Pendidikan No.35, Kota Mataram",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor : W.21-35.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 23 April 2026"
+    }
+  },
+  {
+    "name": "Universitas Hamzanwadi",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Universitas Hamzanwadi — Status pembentukan Sentra KI: Ya; klasterisasi Utama; PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Cut Nyak Dien No.85, Pancor, Kec. Selong, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Utama",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2026\nPKS sedang diproses \n\nPIC: Silvi"
+    }
+  },
+  {
+    "name": "Universitas Pendidikan Mandalika",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Universitas Pendidikan Mandalika — Status pembentukan Sentra KI: Ya; klasterisasi Utama; PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pemuda No.59A, Dasan Agung Baru, Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Utama",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 13 April 2026\nPKS sedang diproses\n\nPIC: Pak Puan"
+    }
+  },
+  {
+    "name": "Institut Kesehatan YARSI Mataram",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Institut Kesehatan YARSI Mataram — Status pembentukan Sentra KI: Ya; klasterisasi Madya; PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Lingkar Selatan, Pagutan Bar., Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Madya",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 12 Februari 2026\n\nTelah menyetujui untuk PKS \nPIC: Imel"
+    }
+  },
+  {
+    "name": "Universitas Bima Internasional MFH",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Universitas Bima Internasional MFH — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Batu Ringgit, Tj. Karang, Kec. Sekarbela, Kota Mataram",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 2 Maret 2026\n\nPKS sedang berproses\nPIC: Imel"
+    }
+  },
+  {
+    "name": "Universitas Nahdlatul Ulama Nusa Tenggara Barat",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Universitas Nahdlatul Ulama Nusa Tenggara Barat — Status pembentukan Sentra KI: Tidak; klasterisasi Pratama; PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pendidikan No.06, Dasan Agung Baru, Kec. Selaparang, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Universitas Teknologi Mataram",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Universitas Teknologi Mataram — Status pembentukan Sentra KI: Tidak; klasterisasi Pratama; PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pelor Mas Raya No.III, Kekalik Jaya, Kec. Sekarbela, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Akademi Administrasi Rumah Sakit Mataram",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Akademi Administrasi Rumah Sakit Mataram — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Kali Brantas No.24-25, Karang, Sukun, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Akademi Kesehatan Gigi Karya Adi Husada",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Akademi Kesehatan Gigi Karya Adi Husada — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Dr. Sutomo No. 19 Kelurahan Karang Baru Kota Mataram, Tanjung Karang",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Poltekkes Kemenkes Mataram",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Poltekkes Kemenkes Mataram — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Proses.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Praburangkasari Dasan Cermen Kec. Sandubaya, Kota Mataram",
+      "pks_dengan_kanwil": "Proses",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "PIC PKS: Sanis"
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Administrasi Mataram",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Ilmu Administrasi Mataram — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Bung Karno No.60, Pagesangan Tim., Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Ekonomi 45 Mataram",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Ilmu Ekonomi 45 Mataram — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Tawak-Tawak, Mataram Tim., Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Ekonomi AMM",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Ilmu Ekonomi AMM — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pendidikan 1 Dasan Agung, Gomong, Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Kesehatan Mataram",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Ilmu Kesehatan Mataram — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan Swakarsa III.10-14 Sekarbela, Kekalik Jaya, Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Tarbiyah Ispini",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Ilmu Tarbiyah Ispini — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "\nJl. Cemp. No.5, Mataram Bar., Kec. Selaparang, Kota Mataram, Nusa Tenggara Bar. 83126",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Teknik Lingkungan Mataram",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Teknik Lingkungan Mataram — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Bung Karno No.60, Pagesangan Tim., Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Sedang dihubungi dan setuju untuk PKS\nPIC: Imel"
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Theologia Injili Indonesia Lombok",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Theologia Injili Indonesia Lombok — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Alas IV No.9, Taman Kapitan, Kec. Ampenan, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STIKES Kusuma Bangsa",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STIKES Kusuma Bangsa — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pariwisata, Monjok Tim., Kec. Selaparang, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STIS Darul Falah Pagutan Mataram NTB",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STIS Darul Falah Pagutan Mataram NTB — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Pagutan, Kec. Mataram, Kota Mataram",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STT ARASTAMAR MATARAM",
+    "district": "Kota Mataram",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STT ARASTAMAR MATARAM — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Amir Hamzah, Mataram Tim., Kec. Mataram, Kota Mataram, Nusa Tenggara Bar. 83127, Indonesia",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Politeknik Pariwisata Lombok",
+    "district": "Kab. Lombok Tengah",
+    "year": 2024,
+    "status": "VERIFIED",
+    "description": "Politeknik Pariwisata Lombok — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya (Nomor: W.21-HH.04.04-50 Tahun 2024).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Raden Puguh No.1, Puyung, Jonggat, Praya, Lombok Tengah, Prov. NTB",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor: W.21-HH.04.04-50 Tahun 2024",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Universitas Qamarul Huda Badaruddin Bagu",
+    "district": "Kab. Lombok Tengah",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Universitas Qamarul Huda Badaruddin Bagu — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Ya (Nomor : W.21-39.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. H. Badruddin, Bagu, Praya, Kab. Lombok Tengah",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor : W.21-39.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2026"
+    }
+  },
+  {
+    "name": "Institut Pendidikan Nusantara Global",
+    "district": "Kab. Lombok Tengah",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Institut Pendidikan Nusantara Global — Status pembentukan Sentra KI: Tidak; klasterisasi Pratama; PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Raya Praya - Mantang No.Km 07, Aik Mual, Kec. Praya, Kabupaten Lombok Tengah",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Institut Agama Islam Qamarul Huda",
+    "district": "Kab. Lombok Tengah",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Institut Agama Islam Qamarul Huda — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "JL. H. Badaruddin, RT. 02, Bagu, Pringgarata, Bagu, Mataram, Kabupaten Lombok Tengah",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2027\nIAI sedang dalam proses penggabungan dengan Uniqhba"
+    }
+  },
+  {
+    "name": "Politeknik Sains Global",
+    "district": "Kab. Lombok Tengah",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Politeknik Sains Global — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "alan Raya Praya - Mantang No.Km 07, Aik Mual, Praya, Kabupaten Lombok Tengah",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Syariah Haji Abdul Rasyid",
+    "district": "Kab. Lombok Tengah",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Ilmu Syariah Haji Abdul Rasyid — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Al Barokah Penangsak Desa Sengkerang Praya Timur Kabupaten Lombok Tengah",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STIT Darussalimin Nahdlatul Wathan",
+    "district": "Kab. Lombok Tengah",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STIT Darussalimin Nahdlatul Wathan — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": " Aik Dareq, Kec. Batukliang, Kabupaten Lombok Tengah",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STIT Manhalul Ma`arif Praya Lombok Tengah",
+    "district": "Kab. Lombok Tengah",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STIT Manhalul Ma`arif Praya Lombok Tengah — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. H Agus Salim No.30, Tiwugalih, Kec. Praya, Kabupaten Lombok Tengah",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STMIK Lombok",
+    "district": "Kab. Lombok Tengah",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STMIK Lombok — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan Basuki Rahmat Praya Mataram, Praya, Kec. Praya, Kabupaten Lombok Tengah, Nusa Tenggara Bar. 83511, Indonesia",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STIKES Hamzar Memben Lombok Timur",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "STIKES Hamzar Memben Lombok Timur — Status pembentukan Sentra KI: Ya; klasterisasi Madya; PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jln TGH Zainuddin Arsyad, Mamben Daya, Kec. Wanasaba, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Madya",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2026\n\nPIC: Sanis"
+    }
+  },
+  {
+    "name": "Institut Teknologi Sosial dan Kesehatan (ITSK) Muhammadiyah Selong",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Institut Teknologi Sosial dan Kesehatan (ITSK) Muhammadiyah Selong — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. TGH Umar No.22, Khusus Kota Selong, Kec. Selong, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2026\n\nPIC: Meizar\nsudah dihubungi sedang menunggu tanggapan"
+    }
+  },
+  {
+    "name": "Universitas Hamzanwadi",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Universitas Hamzanwadi — Status pembentukan Sentra KI: Ya; klasterisasi Utama; PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Cut Nyak Dien No.85, Pancor, Kec. Selong, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Utama",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2026\nPKS sedang diproses \n\nPIC: Silvi"
+    }
+  },
+  {
+    "name": "Universitas Gunung Rinjani",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Universitas Gunung Rinjani — Status pembentukan Sentra KI: Tidak; klasterisasi Pratama; PKS dengan Kanwil: Tidak ( ).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Raya Mataram - Labuhan Lombok Desa No.KM 50, Gapuk, Kec. Suralaga, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": " ",
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2026\n\nPIC: Sanis"
+    }
+  },
+  {
+    "name": "Akademi Ilmu Pelayaran Nusa Tenggara",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Akademi Ilmu Pelayaran Nusa Tenggara — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Raya Labuhan Haji, Montong Meong, Kec. Labuhan Haji, Kab. Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Institut Agama Islam Al-Manan NU Lombok",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Institut Agama Islam Al-Manan NU Lombok — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan TGH. Abdul Mannan, Bagik Nyaka Santri, Kecamatan Aikmel, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Institut Agama Islam Hamzanwadi NW Lombok Timur",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "PENDING_REVIEW",
+    "description": "Institut Agama Islam Hamzanwadi NW Lombok Timur — Status pembentukan Sentra KI: Proses; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Utama, Jl. Raya Mataram - Labuhan Lombok Jl. Anjani Suralaga No.KM. 45, Anjani, Kec. Suralaga, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Proses",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2026\n\nTerkait PKS telah dihubungi dan menunggu jawaban\nPIC: Dicky"
+    }
+  },
+  {
+    "name": "Institut Agama Islam Hamzanwadi Pancor Lombok Timur",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "PENDING_REVIEW",
+    "description": "Institut Agama Islam Hamzanwadi Pancor Lombok Timur — Status pembentukan Sentra KI: Proses; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. TGH. Zainuddin Abdul Majid No.134, Pancor, Kec. Selong, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Proses",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2027"
+    }
+  },
+  {
+    "name": "Institut Elkatarie",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Institut Elkatarie — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Taman Sari, Kemabng Kuning, Banjar Sari, Kec. Selong, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Institut Studi Islam Sunan Doe",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Institut Studi Islam Sunan Doe — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Soekarno Hatta, Rumbuk, Kec. Sakra, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Institut Teknologi dan Kesehatan Aspirasi",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Institut Teknologi dan Kesehatan Aspirasi — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Jurusan, Jl. Anjani Suralaga Dusun Telaga Tampat No.Km 2, Suralaga, Kec. Suralaga, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan Koordinasi pada 26 Februari 2027\n\ntelah dihubungi dan bersedia untuk PKS, meminta draft PKS\n\nPIC: dicky"
+    }
+  },
+  {
+    "name": "Institut Teknologi Lombok",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Institut Teknologi Lombok — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Lenek, Lenek Daya, Kec. Aikmel, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Tarbiyah Sibawaihi Mutawalli",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Ilmu Tarbiyah Sibawaihi Mutawalli — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Kec. Jerowaru, Kab. Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STAI Darul Kamal NW Kembang Kerang NTB",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STAI Darul Kamal NW Kembang Kerang NTB — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan Kembang Kerang Kroya, Kembang Kerang Daya, Kec. Aikmel, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STEI Hamzar Lombok Timur",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STEI Hamzar Lombok Timur — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Mamben Daya, Kec. Wanasaba, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STIT Palapa Nusantara Lombok Nusa Tenggara",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STIT Palapa Nusantara Lombok Nusa Tenggara — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Raya Keruak - Pancor, Keruak, Jerowaru, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STITNU Al-Mahsuni",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STITNU Al-Mahsuni — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Lintas Laskar No.18, Danger, Kec. Masbagik, Kabupaten Lombok Timur",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STMIK Syaikh Zainuddin Nahdlatul Wathan",
+    "district": "Kab. Lombok Timur",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STMIK Syaikh Zainuddin Nahdlatul Wathan — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "JL. Raya Mataram Labuhan Lombok KM 49 Pondok Pesantren Syaikh Zainuddin NW Anjani, Anjani, Kec. Selong, Kabupaten Lombok Timur, Nusa Tenggara Bar. 83611, Indonesia",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Institut Agama Islam (IAI) Nurul Hakim",
+    "district": "Kab. Lombok Barat",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Institut Agama Islam (IAI) Nurul Hakim — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Kediri, Kec. Kediri, Kabupaten Lombok Barat",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Syariah (STIS) Darussalam Bermi",
+    "district": "Kab. Lombok Barat",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Ilmu Syariah (STIS) Darussalam Bermi — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Soekarno - Hatta beremi, Babussalam, Kuripan, Kabupaten Lombok Barat",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STAI Al-Amin Gersik Kediri Lombok Barat",
+    "district": "Kab. Lombok Barat",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STAI Al-Amin Gersik Kediri Lombok Barat — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Tgh. Abdul Karim, Gelogor, Kec. Kediri, Kabupaten Lombok Barat",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STID Mustafa Ibrahim Al-Ishlahuddin",
+    "district": "Kab. Lombok Barat",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STID Mustafa Ibrahim Al-Ishlahuddin — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "JL TGH. Ibrahim Halidi, Kediri, Kec. Gerung, Kabupaten Lombok Barat",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STIT Al-Aziziyah Kapek Gunungsari Lombok Barat",
+    "district": "Kab. Lombok Barat",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STIT Al-Aziziyah Kapek Gunungsari Lombok Barat — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Gn. Sari, Kec. Gunungsari, Kabupaten Lombok Barat",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Akademi Bisnis Lombok",
+    "district": "Kab. Lombok Utara",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Akademi Bisnis Lombok — Status pembentukan Sentra KI: Tidak; klasterisasi Pratama; PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Raya Tj., Medana, Kec. Tj., Kabupaten Lombok Utara",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STKIP Hamzar",
+    "district": "Kab. Lombok Utara",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STKIP Hamzar — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jenggala, Kec. Tj., Kabupaten Lombok Utara",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Universitas Teknologi Sumbawa",
+    "district": "Kab. Sumbawa",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Universitas Teknologi Sumbawa — Status pembentukan Sentra KI: Ya; klasterisasi Madya; PKS dengan Kanwil: Ya (Nomor: W.21-30.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Raya Olat Maras Batu Alang, Pernek, Kec. Moyo Hulu, Kabupaten Sumbawa",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor: W.21-30.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Madya",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Universitas Samawa",
+    "district": "Kab. Sumbawa",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Universitas Samawa — Status pembentukan Sentra KI: Ya; klasterisasi Madya; PKS dengan Kanwil: Ya (Nomor: 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan Raya Sumbawa Besar- NTB",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor: 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Madya",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Akademi Komunitas Olat Maras",
+    "district": "Kab. Sumbawa",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Akademi Komunitas Olat Maras — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Raya Olat Maras, Pernek, Kec. Unter Iwes, Kabupaten Sumbawa",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Agama Islam Sumbawa",
+    "district": "Kab. Sumbawa",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Agama Islam Sumbawa — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Penyaring, Kec. Moyo Utara, Kabupaten Sumbawa",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STAI Nahdlatul Wathan Samawa Sumbawa",
+    "district": "Kab. Sumbawa",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STAI Nahdlatul Wathan Samawa Sumbawa — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Lintas Sumbawa - Bima No.km 3, Seketeng, Kec. Sumbawa, Kabupaten Sumbawa",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STIKES Griya Husada Sumbawa",
+    "district": "Kab. Sumbawa",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STIKES Griya Husada Sumbawa — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Kebayan, Brang Biji, Kec. Sumbawa, Kabupaten Sumbawa",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "STKIP Paracendekia N W Sumbawa",
+    "district": "Kab. Sumbawa",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STKIP Paracendekia N W Sumbawa — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Lintas Sumbawa - Bima KM.5, Boak, Kec. Unter Iwes, Kabupaten Sumbawa, Nusa Tenggara Bar. 84316, Indonesia",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": null
+    }
+  },
+  {
+    "name": "Universitas Cordova",
+    "district": "Kab. Sumbawa Barat",
+    "year": 2025,
+    "status": "VERIFIED",
+    "description": "Universitas Cordova — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Ya (Nomor : W.21-41.HH.04.04 Tahun 2025).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pd. Pesantren, Menala, Kec. Taliwang, Kabupaten Sumbawa Barat",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": "Nomor : W.21-41.HH.04.04 Tahun 2025",
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 29 Januari 2026"
+    }
+  },
+  {
+    "name": "STKIP Yapis Dompu",
+    "district": "Kab. Dompu",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "STKIP Yapis Dompu — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": " Bali, Kec. Dompu, Kabupaten Dompu",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 7 Mei 2026"
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Agama Islam Al-Amin Dompu",
+    "district": "Kab. Dompu",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Sekolah Tinggi Agama Islam Al-Amin Dompu — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Montabaru, Kec. Woja, Kabupaten Dompu",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 7 Mei 2026"
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Ekonomi Yapis",
+    "district": "Kab. Dompu",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Sekolah Tinggi Ilmu Ekonomi Yapis — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan Syech Muhammad, Jl. Lkr. Utara Sawete Bali I, Kabupaten Dompu",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 5 Mei 2026"
+    }
+  },
+  {
+    "name": "STKIP Al Amin Dompu",
+    "district": "Kab. Dompu",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STKIP Al Amin Dompu — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Kandai Dua, Kec. Woja, Kabupaten Dompu, Nusa Tenggara Bar. 84219, Indonesia",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 7 Mei 2026"
+    }
+  },
+  {
+    "name": "STIKES Yahya Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STIKES Yahya Bima — Status pembentukan Sentra KI: Tidak; klasterisasi Madya; PKS dengan Kanwil: Proses.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Sambinae, Kec. Mpunda, Kab. Bima",
+      "pks_dengan_kanwil": "Proses",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Madya",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 7 Mei 2026"
+    }
+  },
+  {
+    "name": "Universitas Muhammadiyah Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Universitas Muhammadiyah Bima — Status pembentukan Sentra KI: Ya; klasterisasi Madya; PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Anggrek, Nae, Kec. Rasanae Bar., Kab. Bima",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Madya",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 6 Mei 2026"
+    }
+  },
+  {
+    "name": "STKIP Harapan Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "STKIP Harapan Bima — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Proses.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "SMA PGRI, Rato, Kec. Bolo, Kabupaten Bima,",
+      "pks_dengan_kanwil": "Proses",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 5 Mei 2026"
+    }
+  },
+  {
+    "name": "STKIP Taman Siswa Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "STKIP Taman Siswa Bima — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Proses.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pendidikan Taman Siswa, Belo, Kec. Palibelo, Kabupaten Bima, Nusa Tenggara Bar. 84173, Indonesia",
+      "pks_dengan_kanwil": "Proses",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 6 Mei 2026\n\nmasih kurang SK Pembentukan sentra KI"
+    }
+  },
+  {
+    "name": "Akademi Kebidanan Harapan Bunda Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Akademi Kebidanan Harapan Bunda Bima — Status pembentukan Sentra KI: #N/A; klasterisasi #N/A; PKS dengan Kanwil: #N/A (#N/A).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Imam Bonjol No.56, Santi, Kec. Mpunda, Kab. Bima",
+      "pks_dengan_kanwil": "#N/A",
+      "no_pks": "#N/A",
+      "sentra_ki_status_asli": "#N/A",
+      "klasterisasi": "#N/A",
+      "tindak_lanjut": "#N/A"
+    }
+  },
+  {
+    "name": "Akademi Kebidanan Surya Mandiri Kota Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Akademi Kebidanan Surya Mandiri Kota Bima — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Penatoi, Kec. Mpunda, Kab. Bima",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 6 Mei 2026"
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Ekonomi Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "PENDING_REVIEW",
+    "description": "Sekolah Tinggi Ilmu Ekonomi Bima — Status pembentukan Sentra KI: Proses; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Proses.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Monginsidi, Sarae, Kec. Rasanae Bar., Kab. Bima",
+      "pks_dengan_kanwil": "Proses",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Proses",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 6 Mei 2026"
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Pariwisata Soromandi",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Sekolah Tinggi Pariwisata Soromandi — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Lintas Soromandi Desa Punti, Kec. Soromandi, Kabupaten Bima",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 5 Mei 2026"
+    }
+  },
+  {
+    "name": "STAI Muhammadiyah (STAIM) Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STAI Muhammadiyah (STAIM) Bima — Status pembentukan Sentra KI: #N/A; klasterisasi #N/A; PKS dengan Kanwil: #N/A (#N/A).",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Anggrek, Nae, Kec. Rasanae Bar., Kab. Bima",
+      "pks_dengan_kanwil": "#N/A",
+      "no_pks": "#N/A",
+      "sentra_ki_status_asli": "#N/A",
+      "klasterisasi": "#N/A",
+      "tindak_lanjut": "#N/A"
+    }
+  },
+  {
+    "name": "STES Harapan Bima Nusa Tenggara Barat",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "STES Harapan Bima Nusa Tenggara Barat — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Desa SIE, Kecamatan Monta, Kabupaten Bima",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 5 Mei 2026"
+    }
+  },
+  {
+    "name": "STIS Al-Ittihad Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "PENDING_REVIEW",
+    "description": "STIS Al-Ittihad Bima — Status pembentukan Sentra KI: Proses; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Lingkungan Nusantara, Jl. Gajah Mada, Monggonao, Kec. Rasanae Bar., Kab. Bima",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Proses",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 6 Mei 2026"
+    }
+  },
+  {
+    "name": "STIT Sunan Giri Bima",
+    "district": "Kab. Bima",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "STIT Sunan Giri Bima — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Tidak.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Monggonao, Kec. Mpunda, Kab. Bima",
+      "pks_dengan_kanwil": "Tidak",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 6 Mei 2026"
+    }
+  },
+  {
+    "name": "Universitas Mbojo Bima",
+    "district": "Kota Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Universitas Mbojo Bima — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pierre Tandean, Kel. Mande, Kec. Mpunda, Kota Bima",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 7 Mei 2026"
+    }
+  },
+  {
+    "name": "Universitas Nggusuwaru",
+    "district": "Kota Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Universitas Nggusuwaru — Status pembentukan Sentra KI: Ya; klasterisasi Pratama; PKS dengan Kanwil: Proses.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jl. Pierre Tandean, Kel. Mande, Kec. Mpunda, Kota Bima",
+      "pks_dengan_kanwil": "Proses",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Pratama",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 7 Mei 2026"
+    }
+  },
+  {
+    "name": "Politeknik AMA",
+    "district": "Kota Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Politeknik AMA — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan Pendidikan No. 02, Kelurahan Dara, Kecamatan Rasanae Barat, Kota Bima",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "telah dilakukan koordinasi pada 6 Mei 2026"
+    }
+  },
+  {
+    "name": "Politeknik Muhammad Dahlan",
+    "district": "Kota Bima",
+    "year": 2026,
+    "status": "VERIFIED",
+    "description": "Politeknik Muhammad Dahlan — Status pembentukan Sentra KI: Ya; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Ya.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan Imam Bonjol, Kel. Santi, Kec Mpunda, Kota Bima",
+      "pks_dengan_kanwil": "Ya",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Ya",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 7 Mei 2026"
+    }
+  },
+  {
+    "name": "Sekolah Tinggi Ilmu Al-Qur'an (STIQ) Bima",
+    "district": "Kota Bima",
+    "year": 2026,
+    "status": "DRAFT",
+    "description": "Sekolah Tinggi Ilmu Al-Qur'an (STIQ) Bima — Status pembentukan Sentra KI: Tidak; klasterisasi Binaan (Pra- Kualifikasi); PKS dengan Kanwil: Proses.",
+    "attributes": {
+      "sumber": "Rekap Perguruan Tinggi NTB — PKS, Sentra KI, Klasterisasi (Kanwil Kemenkumham NTB)",
+      "alamat": "Jalan BTN Pepabri, No. 02, Linkungan Nusantara, Monggonao, Kota Bima",
+      "pks_dengan_kanwil": "Proses",
+      "no_pks": null,
+      "sentra_ki_status_asli": "Tidak",
+      "klasterisasi": "Binaan (Pra- Kualifikasi)",
+      "tindak_lanjut": "Telah dilakukan koordinasi pada 7 Mei 2026"
+    }
+  }
+]

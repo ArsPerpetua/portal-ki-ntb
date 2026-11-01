@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+*.tsbuildinfo
+.DS_Store
+server/storage/*
+!server/storage/.gitkeep
+
+# Local Netlify folder
+.netlify
+
+# Sumber data mentah riil (xlsx/pdf) - tidak dipakai aplikasi, jangan masuk git
+/kik/
+/merekkolektif/
+/sentraki/
